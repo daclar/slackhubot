@@ -71,8 +71,3 @@ module.exports = function(bot) {
 
 };
 
-
-// 
-
-
-// write READme

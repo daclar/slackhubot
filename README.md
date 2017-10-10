@@ -1,3 +1,11 @@
+# Dave Clarke's Slack Bot READme
+
+my bot is called myhubot2 locally and Silverbot publicly. My bot handles 3 scenarios. 1) when greeted with "yo" it will respond with 
+"wuzzup dawg" 2) When asked what the time is in Tokyo it will return the current time in Tokyo in a readable format and 3) when given the 
+height and radius of a cone it will return the volume
+
+
+
 # myhubot2
 
 myhubot2 is a chat bot built on the [Hubot][hubot] framework. It was
